@@ -27,6 +27,11 @@ app.get('/contact',(req, res) =>{
    return res.sendFile(path.resolve(__dirname,'views', 'music.html'))
 })
 
+app.get('/music',(req, res) =>{
+
+   return res.sendFile(path.resolve(__dirname,'views', 'music.html'))
+})
+
 
  app.get('*',(req, res) =>{
 
