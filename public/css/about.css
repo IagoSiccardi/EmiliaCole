@@ -1,4 +1,30 @@
 .about h1 {
-    line-height: 25px;
+    line-height: 80px;
+    margin-top: 180px;
+    
 }
 
+.about {
+    background-image: url(/images/emilia-about.jpg);
+    background-size: 90%;
+    background-repeat: no-repeat;
+    background-position:  400px 0  ;
+
+}
+
+.about section {
+    margin-left: 30px;
+    color: #2da68f;
+}
+
+.about article {
+    margin-top: 100px;
+}
+
+.about h4 {
+    font-size: 24px;
+}
+
+.about ul li {
+    list-style: initial;
+}

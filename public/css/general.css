@@ -10,10 +10,18 @@ a {
 li {
     list-style: none;
 }
-h1, h2 {
+
+h2 {
+    font-size: 32px; 
     text-transform: uppercase;
     font-family: 'Raleway' ;
     
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: 'Raleway' ;
+    font-size: 64px;
 }
 
 header nav ul li {
@@ -23,3 +31,4 @@ header nav ul li {
 header nav ul {
     padding: 0;
 }
+
