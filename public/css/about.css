@@ -14,7 +14,7 @@
 
 .about section {
     margin-left: 30px;
-    color: #2da68f;
+    color: var(--colorEsmeralda);
 }
 
 .about article {

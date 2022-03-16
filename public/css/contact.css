@@ -1,0 +1,11 @@
+.contact h4 {
+    color : var(--colorEsmeralda)
+}
+
+.contact main section article p {
+    line-height: 10px;
+}
+
+.contact a.dataInfo {
+    color: gray;
+}

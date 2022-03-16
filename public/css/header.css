@@ -1,4 +1,9 @@
- header.horizontal nav ul li {
+header.horizontal {
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+header.horizontal nav ul li {
     display: inline;
 }
 

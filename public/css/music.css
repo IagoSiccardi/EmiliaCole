@@ -1,5 +1,22 @@
-.music {
+.music header {
  background-image: url(/images/emilia-music-top.jpg);
  background-repeat: no-repeat;
  background-size: 100%;
+
+}
+
+.music .goTop {
+    color: gray
+}
+
+.music main section ol li {
+    list-style-type: decimal-leading-zero;
+}
+
+.music main section ol li a {
+    font-weight: 100;
+}
+
+.music main section p {
+     line-height: 10px;
 }
